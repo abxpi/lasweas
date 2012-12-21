@@ -1,0 +1,10 @@
+# nodo: cofres.latentes.001
+
+llave_01: 0x15F1af1A1F8e63938f983BDE3A971AC67f64eC0E  
+firmantes: ∴ ausentes  
+umbral: ≠ alcanzado
+
+estado := inerte
+
+// La variable fue declarada, pero nadie firmó
+// El Protocolo sigue esperando

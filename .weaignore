@@ -1,0 +1,6 @@
+# ignorar nodos sin firmar
+# ignorar cofres sin llave
+
+*.nulo
+*.caduco
+/protocolo/viejo/*

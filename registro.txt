@@ -1,0 +1,7 @@
+// nodo_001
+// llave_01:
+// 0x15F1af1A1F8e63938f983BDE3A971AC67f64eC0E
+
+git add .
+git commit -m "estructura completa ∴ nodo_000 a nodo_001"
+git push
